@@ -1,0 +1,18 @@
+
+.dropdown-toggle::after {
+    display: none; /* Hides the dropdown arrow */
+}
+
+/* Styling for jQuery validation error messages */
+label.error {
+    color: red;
+    font-size: 0.875rem; /* Adjust font size */
+    margin-top: 0.25rem; /* Add some space between input and error message */
+    display: block; /* Make sure error messages are block-level */
+}
+
+/* Error input field border styling */
+input.error {
+    border-color: red; /* Add red border to invalid inputs */
+}
+
