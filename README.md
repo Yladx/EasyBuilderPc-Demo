@@ -3,7 +3,7 @@ Easy Builder PC
 
 STATUS
 - COMPATABILITY - NOT STABLE DATABASE BUT WORKIN 
--PSU CALCULATOR -  NO PROGRESS
+-PSU CALCULATOR -  NO PROGRESS ( logic [ fetch tdp values for all components and find sum. to database, query for power supply with greater than or equal power rating to tdp]) discuss issues with leader - Klarenceb
 -RATE BUILD - DONE 
 -USER EDIT BUILD- DONE
 -USER BUILD PC - UNGOING
