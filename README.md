@@ -2,7 +2,10 @@ Easy Builder PC
 
 
 STATUS
-- COMPATABILITY - NOT STABLE DATABASE BUT WORKIN (for review, leader will conduct data analysis on a set later date after demo - klarenceb) (do not implement builds with sli or crossfire [ dual gpu set up] -klarenceb)
+- COMPATABILITY - NOT STABLE DATABASE BUT WORKIN
+  (for review, leader will conduct data analysis on a set later date after demo - klarenceb)
+  (do not implement builds with sli or crossfire [ dual gpu set up] -klarenceb)
+  (for ram, input field in motherboard database for number of ram slots, use it as condition)
 -PSU CALCULATOR -  NO PROGRESS ( logic [ fetch tdp values for all components and find sum. to database, query for power supply with greater than or equal power rating to tdp]) discuss issues with leader - Klarenceb
 -RATE BUILD - DONE 
 -USER EDIT BUILD- DONE
